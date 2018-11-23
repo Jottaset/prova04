@@ -1,0 +1,11 @@
+/Users/aluno/Projects/prova04_sistCaixaAlta/prova04_sistCaixaAlta/obj/Debug/netcoreapp2.1/prova04_sistCaixaAlta.csprojAssemblyReference.cache
+/Users/aluno/Projects/prova04_sistCaixaAlta/prova04_sistCaixaAlta/obj/Debug/netcoreapp2.1/prova04_sistCaixaAlta.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/prova04_sistCaixaAlta/prova04_sistCaixaAlta/obj/Debug/netcoreapp2.1/prova04_sistCaixaAlta.AssemblyInfoInputs.cache
+/Users/aluno/Projects/prova04_sistCaixaAlta/prova04_sistCaixaAlta/obj/Debug/netcoreapp2.1/prova04_sistCaixaAlta.AssemblyInfo.cs
+/Users/aluno/Projects/prova04_sistCaixaAlta/prova04_sistCaixaAlta/bin/Debug/netcoreapp2.1/prova04_sistCaixaAlta.deps.json
+/Users/aluno/Projects/prova04_sistCaixaAlta/prova04_sistCaixaAlta/bin/Debug/netcoreapp2.1/prova04_sistCaixaAlta.runtimeconfig.json
+/Users/aluno/Projects/prova04_sistCaixaAlta/prova04_sistCaixaAlta/bin/Debug/netcoreapp2.1/prova04_sistCaixaAlta.runtimeconfig.dev.json
+/Users/aluno/Projects/prova04_sistCaixaAlta/prova04_sistCaixaAlta/bin/Debug/netcoreapp2.1/prova04_sistCaixaAlta.dll
+/Users/aluno/Projects/prova04_sistCaixaAlta/prova04_sistCaixaAlta/bin/Debug/netcoreapp2.1/prova04_sistCaixaAlta.pdb
+/Users/aluno/Projects/prova04_sistCaixaAlta/prova04_sistCaixaAlta/obj/Debug/netcoreapp2.1/prova04_sistCaixaAlta.dll
+/Users/aluno/Projects/prova04_sistCaixaAlta/prova04_sistCaixaAlta/obj/Debug/netcoreapp2.1/prova04_sistCaixaAlta.pdb
